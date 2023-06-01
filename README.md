@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Wander Almeida
 <div>
   <a href="https://github.com/WanderCCruz"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WanderCCruz&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WanderCCruz&theme=blue-green"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=WanderCCruz&show_icons=true&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WanderCCruz&theme=blue-green"/>
 </div>
 
 ## Tecnologias que utilizo
