@@ -14,3 +14,19 @@
   <img  alt="Microsoft SQL Server" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
   <img alt="Visual Studio"  height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 <div/>
+
+<p align="left">
+  
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
+      <img src="https://raw.githubusercontent.com/sheharyarshahid/ColoredBadges/master/svg/dev/languages/csharp_dotnet.svg" alt="C#" style="vertical-align:top margin:6px 4px">
+  </a>
+  
+  <a href="https://docs.microsoft.com/en-us/dotnet/maui/what-is-maui">
+      <img src="https://github.com/sheharyarshahid/ColoredBadges/blob/master/svg/dev/frameworks/dotnet_maui.svg" alt="C#" style="vertical-align:top margin:6px 4px">
+  </a>
+ 
+  <a href="https://docs.microsoft.com/en-us/xamarin/android">
+      <img src="https://github.com/sheharyarshahid/ColoredBadges/blob/master/svg/dev/frameworks/xamarin_android.svg" alt="Xamarin Android" style="vertical-align:top margin:6px 4px">
+  </a>
+  
+</p>
